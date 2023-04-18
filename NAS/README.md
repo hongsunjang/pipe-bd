@@ -1,8 +1,9 @@
 # Pipe-BD implementation for neural architecture search
 
 ## baseline
-The code implementation is based on ProxylessNAS (ICLR'19)
-We modifiy 'timm' from Pytorch Image Models( https://github.com/huggingface/pytorch-image-models )
+The code implementation is based on ProxylessNAS (ICLR'19).
+
+We modifiy "timm" from "Pytorch Image Models"( https://github.com/huggingface/pytorch-image-models ).
 
 ## How to run
 - First you need to pretrain teachers
