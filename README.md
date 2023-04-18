@@ -1,7 +1,8 @@
-# Pipe-BD: Pipelined Parallel Blockwise Distillation  [[arXiv]](https://arxiv.org/abs/2301.12443) [[Poster]](https://file.lzhu.me/projects/proxylessNAS/figures/ProxylessNAS_iclr_poster_final.pdf)
+# Pipe-BD: Pipelined Parallel Blockwise Distillation  [[arXiv]](https://arxiv.org/abs/2301.12443) [[Poster]](https://not_yet)
 
-```
-Pipe-BD: Pipelined Parallel Blockwise Distillation ```bash
+
+Pipe-BD: Pipelined Parallel Blockwise Distillation 
+```bash
 @inproceedings{jang2023pipe,
   title={Pipe-BD: Pipelined Parallel Blockwise Distillation},
   author={Jang, Hongsun and Jung, Jaewon and Song, Jaeyong and Yu, Joonsang and Kim, Youngsok and Lee, Jinho},
