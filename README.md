@@ -1,4 +1,4 @@
-# Pipe-BD: Pipelined Parallel Blockwise Distillation  [[arXiv]](https://arxiv.org/abs/2301.12443) [[Poster]](https://not_yet)
+# \[DATE'23\] Pipe-BD: Pipelined Parallel Blockwise Distillation  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10137044/)[[arXiv]](https://arxiv.org/abs/2301.12443) [[Poster]](./assets/pipebd_poster.pdf)
 
 
 Pipe-BD: Pipelined Parallel Blockwise Distillation 
