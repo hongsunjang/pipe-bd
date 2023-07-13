@@ -2,13 +2,14 @@
 
 
 Pipe-BD: Pipelined Parallel Blockwise Distillation 
-```bash
-@inproceedings{jang2023pipe,
-  title={Pipe-BD: Pipelined Parallel Blockwise Distillation},
+```
+@INPROCEEDINGS{10137044,
   author={Jang, Hongsun and Jung, Jaewon and Song, Jaeyong and Yu, Joonsang and Kim, Youngsok and Lee, Jinho},
+  booktitle={2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)}, 
+  title={Pipe-BD: Pipelined Parallel Blockwise Distillation}, 
   year={2023},
-  url={https://arxiv.org/pdf/2301.12443.pdf},
-}
+  pages={1-6},
+  doi={10.23919/DATE56975.2023.10137044}}
 ```
 
 ## News
